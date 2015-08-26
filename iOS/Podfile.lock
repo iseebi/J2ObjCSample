@@ -1,0 +1,21 @@
+PODS:
+  - J2ObjC (0.9.7):
+    - J2ObjC/lib/jre (= 0.9.7)
+  - J2ObjC/lib/jre (0.9.7)
+
+DEPENDENCIES:
+  - J2ObjC (from `https://github.com/goodow/j2objc.git`)
+
+EXTERNAL SOURCES:
+  J2ObjC:
+    :git: https://github.com/goodow/j2objc.git
+
+CHECKOUT OPTIONS:
+  J2ObjC:
+    :commit: 9c8037ce8d97fc88ca477afe5313923bae827096
+    :git: https://github.com/goodow/j2objc.git
+
+SPEC CHECKSUMS:
+  J2ObjC: 81b8ad4d87df9c8911ed51e6033fd40f8dde860c
+
+COCOAPODS: 0.38.2
